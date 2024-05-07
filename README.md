@@ -8,4 +8,5 @@ Translation between multiple languages
 
 ## Requirements
 Python 3.x
-Required libraries: tkinter (for GUI), googletrans (for translation)
+## Required libraries: 
+tkinter (for GUI), googletrans (for translation)
